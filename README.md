@@ -29,3 +29,9 @@ b. Como estes atributos seriam identificados no vertex shader?
         
 5) Analise o código fonte do projeto Hello Triangle. Localize e relacione os conceitos de
 shaders, VBOs e VAO apresentados até então. Não precisa entregar nada neste exercício.
+
+6) No código fonte do exercício 6 eu comentei as linhas que representam cada letra desta questão, então pra testar os diferentes desenhos é só comentar e descomentar as linhas relevantes.
+
+7) Questão 7 fiz normal, só compilar e rodar que deve estar funcionando.
+
+8) 
