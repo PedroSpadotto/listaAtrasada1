@@ -16,9 +16,9 @@ Primitivas Gráficas são argumento que usamos em draw calls, de acordo com este
 
 VBO: buffer responsavel pelos dados dos vértices, ou seja é um array onde as posições utilizadas nas primitivas gráficas são armazenados e enviados para a GPU
 
-VAO: array que é responsável por conectar atributos (posição e cor por exemplo) do vértice com base na quantidade de bytes que vão receber determinado atributo
-
 EBO: é um maneira diferente de utilizar os buffers de modo que por possuir uma lista com números que representam vértices, isto permite que números diferentes apontem para o mesmo vértice com a intenção de não existirem vértices repetidos ao desenhar certas formas
+
+VAO: array que é responsável por conectar atributos (posição e cor por exemplo) do vértice com base na quantidade de bytes que vão receber determinado atributo, se relaciona com VBOs e EBOs pois os valores destes representam a posição que receberá certa cor por exemplo
 
 4) Considerando o seguinte triângulo abaixo, formado pelos vértices P1, P2 e P3,
 respectivamente com as cores vermelho, verde e azul.
