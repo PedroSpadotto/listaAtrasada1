@@ -22,8 +22,9 @@ VAO: array que é responsável por conectar atributos (posição e cor por exemp
 
 4) Considerando o seguinte triângulo abaixo, formado pelos vértices P1, P2 e P3,
 respectivamente com as cores vermelho, verde e azul.
-        a. Descreva uma possível configuração dos buffers (VBO, VAO e EBO) para
-representá-lo.
+
+        a. Descreva uma possível configuração dos buffers (VBO, VAO e EBO) pararepresentá-lo.
+
         b. Como estes atributos seriam identificados no vertex shader?
         
 5) Analise o código fonte do projeto Hello Triangle. Localize e relacione os conceitos de
