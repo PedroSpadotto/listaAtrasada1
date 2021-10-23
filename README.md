@@ -1,7 +1,7 @@
 # listaAtrasada1
 Desculpa pelo atraso prof
 
-Lista de exercícios número 1
+Lista de exercícios número 1, todos foram feitos com x86
 
 1) O que é a GLSL? Quais os dois tipos de shaders são obrigatórios no pipeline programável
 da versão atual que trabalhamos em aula e o que eles processam? 
@@ -30,8 +30,9 @@ b. Como estes atributos seriam identificados no vertex shader?
 5) Analise o código fonte do projeto Hello Triangle. Localize e relacione os conceitos de
 shaders, VBOs e VAO apresentados até então. Não precisa entregar nada neste exercício.
 
-6) No código fonte do exercício 6 eu comentei as linhas que representam cada letra desta questão, então pra testar os diferentes desenhos é só comentar e descomentar as linhas relevantes.
+6) No código fonte do exercício 6 eu comentei as linhas que representam cada letra desta questão, então pra testar os diferentes desenhos é só comentar e descomentar as linhas relevantes. 
 
-7) Questão 7 fiz normal, só compilar e rodar que deve estar funcionando.
+7) Questão 7 fiz normal, só compilar e rodar que deve estar funcionando. Criei os triângulos com os 9 vértices utilizando a primitiva de Triangle Fan.
+
 
 8) 
