@@ -34,5 +34,6 @@ shaders, VBOs e VAO apresentados até então. Não precisa entregar nada neste e
 
 7) Questão 7 fiz normal, só compilar e rodar que deve estar funcionando. Criei os triângulos com os 9 vértices utilizando a primitiva de Triangle Fan.
 
+8) Criei outro atributo pra cor no VS e alterei os buffers pra supportar dois atributos por index.
 
-8) 
+9) Utilizei diversas primitas para criar a casa. Principal alteração foi a criação de mais drawcalls e adicionando novos vértices.
