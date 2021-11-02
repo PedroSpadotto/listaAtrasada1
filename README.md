@@ -37,3 +37,5 @@ shaders, VBOs e VAO apresentados até então. Não precisa entregar nada neste e
 8) Criei outro atributo pra cor no VS e alterei os buffers pra supportar dois atributos por index.
 
 9) Utilizei diversas primitas para criar a casa. Principal alteração foi a criação de mais drawcalls e adicionando novos vértices.
+
+10) Adicionei o arquivo do shader que criamos.
